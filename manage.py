@@ -1,5 +1,5 @@
 # manage.py
-    
+
 
 import os
 import unittest
